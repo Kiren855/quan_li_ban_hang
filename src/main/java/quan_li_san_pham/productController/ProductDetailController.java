@@ -101,6 +101,7 @@ public class ProductDetailController implements Initializable {
             ElectAnchorPane.setVisible(true);
         }
     }
+
     public void ConfirmHandle(){
         ProductController.instance.setAnchorPaneVisible();
     }
